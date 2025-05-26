@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "aceite",
+      "position": [0.5,0.5,0],
+      "rotation": [0,90,0]
+    },
+    {
+      "name": "mozarella",
+      "position": [-0.5,0.25,0.5],
+      "rotation": [0,0,0]
+    },
+    {
+      "name": "huevos",
+      "position": [0.75,0.5,0.5],
+      "rotation": [0,0,0]
+    },
+    {
+      "name": "arroz basmati",
+      "position": [-0.6,0.2,-0.8],
+      "rotation": [180,0,180]
+    },
+    {
+      "name": "pechuga pollo",
+      "position": [0,0.6,0.2],
+      "rotation": [0,0,0]
+    },
+    {
+      "name": "pimiento",
+      "position": [-0.5,0,-0.5],
+      "rotation": [180,0,180]
+    }
+  ]
+}
